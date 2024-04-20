@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=1000&lines=Hello+My+Name+Is+Sel%C3%A7uk;I+Am+Studying+Software+Develepmont)](https://git.io/typing-svg)
 
-
 <div align="center">
     <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=Selcuk024&show_icons=true&count_private=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=0d1117&hide_border=true" /> 
     <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selcuk024&layout=compact&title_color=ffff00&text_color=fff&bg_color=0d1117&hide_border=true" />
@@ -19,6 +18,13 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
+### Frameworks:
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
 ### Tools:
