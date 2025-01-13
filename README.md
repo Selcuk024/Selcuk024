@@ -6,8 +6,9 @@
 <div align="center">
     <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=Selcuk024&show_icons=true&count_private=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=0d1117&hide_border=true" /> 
     <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selcuk024&layout=compact&title_color=ffff00&text_color=fff&bg_color=0d1117&hide_border=true" />
-    [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nirzak)]
-  </div>
+    <a href="http://www.github.com/Selcuk024"><img src="https://nirzak-streak-stats.vercel.app/?user=Selcuk024" alt="GitHub Streak" /></a>
+
+</div>
 ### Main Knowledge:
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
